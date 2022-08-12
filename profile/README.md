@@ -22,4 +22,5 @@
 ## ✨ 프로젝트 산출물
 
 - [기획서](https://github.com/Boram3J/Overview/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%95%88_3%EC%A1%B0.docx.pdf)
+- [발표자료](https://github.com/Boram3J/Overview/blob/main/OCRX_%EB%B3%B4%EB%9E%8C%EC%82%BC%EC%A1%B0_%EB%B0%95%EC%9D%B8%EC%98%81.pptx.pdf)
 - [개발일지](https://github.com/Boram3J/Overview)
