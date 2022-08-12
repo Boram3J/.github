@@ -1,4 +1,4 @@
-# Boram3J 🦊
+# OCRX(Optical Character Recognition Extended) 🦊
 
 ## 📌 프로젝트 소개
 
