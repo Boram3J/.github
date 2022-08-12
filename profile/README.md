@@ -1,4 +1,4 @@
-# OCRX(Optical Character Recognition Extended) 🦊
+# OCRX(Optical Character Recognition: Extended) 🦊
 
 ## 📌 프로젝트 소개
 
