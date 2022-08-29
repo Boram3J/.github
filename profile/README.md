@@ -19,7 +19,7 @@
 
 ## 📚 프로젝트 결과물
 
-![sample](sample.gif)
+![sample](https://github.com/Boram3J/.github/blob/main/profile/sample.gif)
 
 ## ✨ 프로젝트 산출물
 
