@@ -19,12 +19,12 @@
 
 ### AI
 
-|[박인영](https://github.com/PIYoung)|[김태민](https://github.com/KTMMMM)|[송진욱](https://github.com/ZK0523SonG)|[이재욱](https://github.com/jvvoolc)|
-| :----: | :----: | :----: | :----: | 
-| [![Avatar](https://avatars.githubusercontent.com/u/49637184?v=4)](https://github.com/PIYoung) | [![Avatar](https://avatars.githubusercontent.com/u/110892552?v=4)](https://github.com/KTMMMM) | [![Avatar](https://avatars.githubusercontent.com/u/85278540?v=4)](https://github.com/ZK0523SonG) | [![Avatar](https://avatars.githubusercontent.com/u/24962975?v=4)](https://github.com/jvvoolc) |
+|[박인영](https://github.com/PIYoung)|[조우현](https://github.com/chowoohyun)|[이재욱](https://github.com/jvvook)|[박주희](https://github.com/juliajh)|
+| :----: | :----: | :----: | :----: |
+| [![Avatar](https://avatars.githubusercontent.com/u/49637184?v=4)](https://github.com/PIYoung) | [![Avatar](https://avatars.githubusercontent.com/u/67001050?v=4)](https://github.com/chowoohyun) | [![Avatar](https://avatars.githubusercontent.com/u/24962972?v=4)](https://github.com/jvvook) | [![Avatar](https://avatars.githubusercontent.com/u/54497150?v=4)](https://github.com/juliajh) |
 
 ### Network
 
-|[박인영](https://github.com/PIYoung)|[김태민](https://github.com/KTMMMM)|[송진욱](https://github.com/ZK0523SonG)|
+|[전현정](https://github.com/hyunjungjeon)|[이상우](https://github.com/mungjin4966)|[최윤서](https://github.com/YSChoi123)|
 | :---: | :---: | :---: |
-| [![Avatar](https://avatars.githubusercontent.com/u/49637184?v=4)](https://github.com/PIYoung) | [![Avatar](https://avatars.githubusercontent.com/u/110892552?v=4)](https://github.com/KTMMMM) | [![Avatar](https://avatars.githubusercontent.com/u/85278540?v=4)](https://github.com/ZK0523SonG) |
+| [![Avatar](https://avatars.githubusercontent.com/u/70558461?v=4)](https://github.com/hyunjungjeon) | [![Avatar](https://avatars.githubusercontent.com/u/67566068?v=4)](https://github.com/mungjin4966) | [![Avatar](https://avatars.githubusercontent.com/u/73926427?v=4)](https://github.com/YSChoi123) |
