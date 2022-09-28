@@ -19,12 +19,12 @@
 
 ### AI
 
-|                             [박인영](https://github.com/PIYoung)                              |                              [김태민](https://github.com/KTMMMM)                              |                             [송진욱](https://github.com/ZK0523SonG)                              |                             [이재욱](https://github.com/jvvoolc)                              |
-| :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | 
+|[박인영](https://github.com/PIYoung)|[김태민](https://github.com/KTMMMM)|[송진욱](https://github.com/ZK0523SonG)|[이재욱](https://github.com/jvvoolc)|
+| :----: | :----: | :----: | :----: | 
 | [![Avatar](https://avatars.githubusercontent.com/u/49637184?v=4)](https://github.com/PIYoung) | [![Avatar](https://avatars.githubusercontent.com/u/110892552?v=4)](https://github.com/KTMMMM) | [![Avatar](https://avatars.githubusercontent.com/u/85278540?v=4)](https://github.com/ZK0523SonG) | [![Avatar](https://avatars.githubusercontent.com/u/24962975?v=4)](https://github.com/jvvoolc) |
 
 ### Network
 
-|                             [박인영](https://github.com/PIYoung)                              |                              [김태민](https://github.com/KTMMMM)                              |                             [송진욱](https://github.com/ZK0523SonG)                              |
-| :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+|[박인영](https://github.com/PIYoung)|[김태민](https://github.com/KTMMMM)|[송진욱](https://github.com/ZK0523SonG)|
+| :---: | :---: | :---: |
 | [![Avatar](https://avatars.githubusercontent.com/u/49637184?v=4)](https://github.com/PIYoung) | [![Avatar](https://avatars.githubusercontent.com/u/110892552?v=4)](https://github.com/KTMMMM) | [![Avatar](https://avatars.githubusercontent.com/u/85278540?v=4)](https://github.com/ZK0523SonG) |
